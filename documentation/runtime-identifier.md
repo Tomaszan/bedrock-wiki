@@ -74,7 +74,7 @@ Perfect for imitating a block, as long as the player is in Adventure Mode.
 - Disables death animation, sound, and particles
 - Makes entity's shadow small, but it doesn't make it disappear
 - Cannot be interacted with
-- If spawned through an egg or /summon command, gives the player an arrow when the player comes into contact with the entity, then removes itself
+- If spawned through an egg or /summon command, gives the player an arrow when the player comes into contact with the entity, then removes itself. It can also be picked up from the ground as an arrow if the entity is using stick_in_ground within minecraft:projectile component.
  
 ---
 ## minecraft:thrown_trident
